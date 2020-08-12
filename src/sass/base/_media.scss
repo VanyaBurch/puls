@@ -1,5 +1,5 @@
 @media (max-width: 991px) {
-  .promo {
+  .promo, .consultation {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,19 +51,32 @@
       margin-bottom: 50px;
     }
   }
+  .consultation {
+    h2 {
+      font-size: 20px;
+      text-align: center;
+    }
+    &__descr {
+      font-size: 18px;
+      margin-top: 25px;
+      text-align: center;
+    }
+    form {
+      margin: 50px auto;
+      width: 280px;
+    }
+  }
 }
+
 
 
 @media (max-width: 575px) {
   .promo {
     .header {
-      flex-direction: column;
-      align-items: center;
       &__logo {
         width: 330px;
       }
       &__official {
-        padding-top: 50px;
         font-size: 18px;
         span {
           font-size: 20px;
@@ -73,8 +86,16 @@
         padding-top: 50px;
       }
     }
-    &__wrapper {
-      align-items: center;
+  }
+  .consultation {
+    h2 {
+      font-size: 17px;
+    }
+    &__descr {
+      font-size: 16px;
+    }
+    form {
+      width: 240px;
     }
   }
 }
@@ -109,6 +130,17 @@
       font-size: 25px;
     }
   }
+  .consultation {
+    h2 {
+      font-size: 15px;
+    }
+    &__descr {
+      font-size: 15px;
+    }
+    form {
+      width: 240px;
+    }
+  }
 }
 
 @media (max-width: 350px) {
@@ -128,6 +160,20 @@
   .advantages {
     h2 {
       font-size: 22px;
+    }
+  }
+  .consultation {
+    h2 {
+      font-size: 13px;
+    }
+    &__descr {
+      font-size: 13px;
+    }
+    form {
+      width: 220px;
+      button {
+        font-size: 13px;
+      }
     }
   }
 }
