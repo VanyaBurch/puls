@@ -23,10 +23,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/base/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/base/_media.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/blocks/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_promo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_promo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_titles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_titles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,9 @@
       <workItem from="1596734587844" duration="2491000" />
       <workItem from="1596819617930" duration="10914000" />
       <workItem from="1597162117038" duration="11012000" />
-      <workItem from="1597242328488" duration="9819000" />
+      <workItem from="1597242328488" duration="10172000" />
+      <workItem from="1597333784265" duration="12404000" />
+      <workItem from="1597511956571" duration="9381000" />
     </task>
     <servers />
   </component>
