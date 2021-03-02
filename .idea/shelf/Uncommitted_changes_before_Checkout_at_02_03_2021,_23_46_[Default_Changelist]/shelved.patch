@@ -1,0 +1,116 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6d16fb77-6b63-47bc-a7a6-634e737ec7eb\" name=\"Default Changelist\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/gulpfile.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/gulpfile.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/package-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/package.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package.json\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/css/bootstrap-reboot.min.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/css/font.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/css/slick.css\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/css/style.min.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/css/style.min.css\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/apphand.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/chevron-left-solid.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/chevron-right-solid.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/cup.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/facebook.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/heart.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/instagram.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/logo.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/messages.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/pinterest.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/shoe.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/img/icons/timer.png\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/index.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/js/script.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/js/script.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/sass/base/_mixins.scss\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/sass/blocks/_advantages.scss\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/sass/blocks/_advantages.scss\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/sass/blocks/_consultation.scss\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/sass/blocks/_consultation.scss\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/sass/blocks/_modal.scss\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/sass/blocks/_modal.scss\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/sass/style.scss\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/sass/style.scss\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitToolBoxStore\">\n    <option name=\"projectConfigVersion\" value=\"2\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1fjbjkBnRhVpdS03N7Kq62kAyLd\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../Bicycle-master\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"watcher.settings\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src\" />\n      <recent name=\"$PROJECT_DIR$\" />\n      <recent name=\"$PROJECT_DIR$/src/sass/base\" />\n      <recent name=\"$PROJECT_DIR$/src/css\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"6d16fb77-6b63-47bc-a7a6-634e737ec7eb\" name=\"Default Changelist\" comment=\"\" />\n      <created>1596734586548</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1596734586548</updated>\n      <workItem from=\"1596734587844\" duration=\"2491000\" />\n      <workItem from=\"1596819617930\" duration=\"10914000\" />\n      <workItem from=\"1597162117038\" duration=\"11012000\" />\n      <workItem from=\"1597242328488\" duration=\"10172000\" />\n      <workItem from=\"1597333784265\" duration=\"12404000\" />\n      <workItem from=\"1597511956571\" duration=\"10466000\" />\n      <workItem from=\"1597591088929\" duration=\"9292000\" />\n      <workItem from=\"1598542362220\" duration=\"151000\" />\n      <workItem from=\"1598543013432\" duration=\"4274000\" />\n      <workItem from=\"1598548655649\" duration=\"630000\" />\n      <workItem from=\"1598882921342\" duration=\"536000\" />\n      <workItem from=\"1598883495249\" duration=\"9046000\" />\n      <workItem from=\"1598895244952\" duration=\"67000\" />\n      <workItem from=\"1598895583096\" duration=\"7048000\" />\n      <workItem from=\"1598903923912\" duration=\"104000\" />\n      <workItem from=\"1598964007260\" duration=\"5499000\" />\n      <workItem from=\"1598972217115\" duration=\"32000\" />\n      <workItem from=\"1600543798526\" duration=\"82000\" />\n      <workItem from=\"1600967271448\" duration=\"621000\" />\n      <workItem from=\"1602584731176\" duration=\"31000\" />\n      <workItem from=\"1603283250324\" duration=\"151000\" />\n      <workItem from=\"1606910641982\" duration=\"240000\" />\n      <workItem from=\"1606910946427\" duration=\"1641000\" />\n      <workItem from=\"1606918174953\" duration=\"34000\" />\n      <workItem from=\"1608309505327\" duration=\"33000\" />\n      <workItem from=\"1614619559120\" duration=\"2060000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"732\" y=\"270\" width=\"615\" height=\"346\" key=\"#Notifications\" timestamp=\"1598895283810\">\n      <screen x=\"0\" y=\"34\" width=\"1400\" height=\"812\" />\n    </state>\n    <state x=\"732\" y=\"270\" width=\"615\" height=\"346\" key=\"#Notifications/0.34.1400.812@0.34.1400.812\" timestamp=\"1598895283810\" />\n    <state x=\"528\" y=\"265\" key=\"#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog\" timestamp=\"1606910649768\">\n      <screen x=\"0\" y=\"0\" width=\"1680\" height=\"1050\" />\n    </state>\n    <state x=\"528\" y=\"265\" key=\"#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050\" timestamp=\"1606910649768\" />\n    <state x=\"783\" y=\"189\" width=\"524\" height=\"508\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog\" timestamp=\"1598897444829\">\n      <screen x=\"0\" y=\"34\" width=\"1400\" height=\"812\" />\n    </state>\n    <state x=\"783\" y=\"189\" width=\"524\" height=\"508\" key=\"#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1400.812@0.34.1400.812\" timestamp=\"1598897444829\" />\n    <state x=\"483\" y=\"198\" width=\"424\" height=\"491\" key=\"FileChooserDialogImpl\" timestamp=\"1598903935048\">\n      <screen x=\"0\" y=\"34\" width=\"1400\" height=\"812\" />\n    </state>\n    <state x=\"483\" y=\"198\" width=\"424\" height=\"491\" key=\"FileChooserDialogImpl/0.34.1400.812@0.34.1400.812\" timestamp=\"1598903935048\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 94ce26a2f6c54872801a0e0d4814783edf16ac57)
++++ b/.idea/workspace.xml	(date 1614721492943)
+@@ -21,32 +21,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="6d16fb77-6b63-47bc-a7a6-634e737ec7eb" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/css/bootstrap-reboot.min.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/css/font.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/css/slick.css" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.min.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/apphand.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/chevron-left-solid.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/chevron-right-solid.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/cup.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/facebook.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/heart.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/instagram.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/logo.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/messages.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/pinterest.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/shoe.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/img/icons/timer.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/sass/base/_mixins.scss" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_advantages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_advantages.scss" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_consultation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_consultation.scss" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/_modal.scss" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -58,6 +32,29 @@
+   </component>
+   <component name="GitToolBoxStore">
+     <option name="projectConfigVersion" value="2" />
++    <option name="recentBranches">
++      <RecentBranches>
++        <option name="branchesForRepo">
++          <list>
++            <RecentBranchesForRepo>
++              <option name="branches">
++                <list>
++                  <RecentBranch>
++                    <option name="branchName" value="main" />
++                    <option name="lastUsedInstant" value="1614721269" />
++                  </RecentBranch>
++                  <RecentBranch>
++                    <option name="branchName" value="master" />
++                    <option name="lastUsedInstant" value="1614721268" />
++                  </RecentBranch>
++                </list>
++              </option>
++              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
++            </RecentBranchesForRepo>
++          </list>
++        </option>
++      </RecentBranches>
++    </option>
+   </component>
+   <component name="ProjectId" id="1fjbjkBnRhVpdS03N7Kq62kAyLd" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+@@ -83,8 +80,8 @@
+   </component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$/src" />
+       <recent name="$PROJECT_DIR$" />
++      <recent name="$PROJECT_DIR$/src" />
+       <recent name="$PROJECT_DIR$/src/sass/base" />
+       <recent name="$PROJECT_DIR$/src/css" />
+     </key>
+@@ -122,7 +119,7 @@
+       <workItem from="1606910946427" duration="1641000" />
+       <workItem from="1606918174953" duration="34000" />
+       <workItem from="1608309505327" duration="33000" />
+-      <workItem from="1614619559120" duration="2060000" />
++      <workItem from="1614619559120" duration="2665000" />
+     </task>
+     <servers />
+   </component>
+@@ -141,22 +138,4 @@
+     </option>
+     <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+-  <component name="WindowStateProjectService">
+-    <state x="732" y="270" width="615" height="346" key="#Notifications" timestamp="1598895283810">
+-      <screen x="0" y="34" width="1400" height="812" />
+-    </state>
+-    <state x="732" y="270" width="615" height="346" key="#Notifications/0.34.1400.812@0.34.1400.812" timestamp="1598895283810" />
+-    <state x="528" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606910649768">
+-      <screen x="0" y="0" width="1680" height="1050" />
+-    </state>
+-    <state x="528" y="265" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606910649768" />
+-    <state x="783" y="189" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598897444829">
+-      <screen x="0" y="34" width="1400" height="812" />
+-    </state>
+-    <state x="783" y="189" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.1400.812@0.34.1400.812" timestamp="1598897444829" />
+-    <state x="483" y="198" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598903935048">
+-      <screen x="0" y="34" width="1400" height="812" />
+-    </state>
+-    <state x="483" y="198" width="424" height="491" key="FileChooserDialogImpl/0.34.1400.812@0.34.1400.812" timestamp="1598903935048" />
+-  </component>
+ </project>
+\ No newline at end of file
